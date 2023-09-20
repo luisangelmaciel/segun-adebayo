@@ -20,7 +20,7 @@ export const tags = [
 ];
 
 const shared = {
-  name: 'Segun Adebayo',
+  name: 'lamp',
   repo: 'https://github.com/luisangelmaciel',
   editUrl: 'https://github.com/luisangelmaciel/adebayosegun.com/edit/main/data/',
   website: 'https://adebayosegun.com',
@@ -36,7 +36,7 @@ const siteConfig = {
   image: shared.image,
   type: 'website',
   title: shared.title,
-  titleTemplate: '%s - Segun Adebayo',
+  titleTemplate: '%s - lamp',
   description: shared.description,
   siteUrl: shared.website,
   profiles: {

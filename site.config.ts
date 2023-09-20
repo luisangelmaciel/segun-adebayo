@@ -21,11 +21,11 @@ export const tags = [
 
 const shared = {
   name: 'Segun Adebayo',
-  repo: 'https://github.com/segunadebayo/adebayosegun.com',
-  editUrl: 'https://github.com/segunadebayo/adebayosegun.com/edit/main/data/',
+  repo: 'https://github.com/luisangelmaciel',
+  editUrl: 'https://github.com/luisangelmaciel/adebayosegun.com/edit/main/data/',
   website: 'https://adebayosegun.com',
   title:
-    'Segun Adebayo (aka Sage) - UI Engineer (Design Systems), Software Developer and Product Designer',
+    'Software Developer and Product Designer',
   description:
     'UI Engineer passionate about design systems, state machines, accessibility, DX and Rust.',
   image: 'https://adebayosegun.com/static/images/banner.png',
@@ -40,9 +40,9 @@ const siteConfig = {
   description: shared.description,
   siteUrl: shared.website,
   profiles: {
-    github: 'https://github.com/segunadebayo',
-    twitter: 'https://twitter.com/thesegunadebayo',
-    linkedin: 'https://linkedin.com/in/thesegunadebayo',
+    github: 'https://github.com/luisangelmaciel',
+    twitter: 'https://twitter.com/theluisangelmaciel',
+    linkedin: 'https://linkedin.com/in/luisangelmaciel',
     email: 'mailto:sage@adebayosegun.com',
   },
   repo: {
@@ -50,8 +50,8 @@ const siteConfig = {
     editUrl: shared.editUrl,
   },
   twitter: {
-    handle: '@thesegunadebayo',
-    site: '@thesegunadebayo',
+    handle: '@theluisangelmaciel',
+    site: '@theluisangelmaciel',
     cardType: 'summary_large_image',
   },
   openGraph: {
